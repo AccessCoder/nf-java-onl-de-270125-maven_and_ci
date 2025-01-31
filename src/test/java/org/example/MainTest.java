@@ -9,4 +9,9 @@ class MainTest {
     @Test
     void main() {
     }
+
+    @Test
+    void main2() {
+        fail();
+    }
 }
